@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\91810\Downloads\assignment_19"/>
+			<item value="C:\Users\91810\Downloads\assignment_18"/>
+			<item value="C:\Users\91810\Downloads\assignment_17"/>
+			<item value="C:\Users\91810\Downloads\assignment_16"/>
+			<item value="C:\Users\91810\Downloads\assignment_15"/>
+			<item value="C:\Users\91810\Downloads\assignment_14"/>
+			<item value="C:\Users\91810\Downloads\assignment_13"/>
+			<item value="C:\Users\91810\Downloads\assignment_12"/>
+			<item value="C:\Users\91810\Downloads\assignment_11"/>
+			<item value="C:\Users\91810\Downloads\assignment_10"/>
+			<item value="C:\Users\91810\Downloads\assignment_09"/>
+			<item value="C:\Users\91810\Downloads\assignment_08"/>
+			<item value="C:\Users\91810\Downloads\assignment_07"/>
+			<item value="C:\Users\91810\Downloads\assignment_06"/>
+			<item value="C:\Users\91810\Downloads\assignment_05"/>
+			<item value="C:\Users\91810\Downloads\assignment_04"/>
+			<item value="C:\Users\91810\Downloads\assignment_03"/>
+			<item value="C:\Users\91810\Downloads\assignment_02"/>
+			<item value="C:\Users\91810\Downloads\assignment_01"/>
+		</list>
+	</section>
+</section>
